@@ -1,7 +1,7 @@
 # Youtube-dl-GUI
 Youtube Video Downloader (Windows) GUI version
 
-This is the API/CLI to GUI interconversion programme.
+This is the API/CLI to GUI interconversion program.
 
 The GUI version of the 'youtube-dl' API. Paste the link and then the video will be 
 
